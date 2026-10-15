@@ -1,0 +1,5 @@
+.env
+*.log
+open_webui_data/
+postgres_data/
+.DS_Store

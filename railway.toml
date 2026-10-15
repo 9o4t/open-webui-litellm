@@ -1,0 +1,4 @@
+# Health paths for the two app services. Railway still uses official images.
+
+[deploy]
+restartPolicyType = "ON_FAILURE"
